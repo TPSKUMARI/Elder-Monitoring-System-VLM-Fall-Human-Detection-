@@ -1,0 +1,11 @@
+# Computer vision and pose detection
+opencv-python
+mediapipe
+numpy
+
+# Vision-language model API and environment configuration
+openai
+python-dotenv
+
+# Time-zone support for database timestamps
+pytz

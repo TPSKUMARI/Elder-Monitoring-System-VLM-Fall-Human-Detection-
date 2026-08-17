@@ -1,0 +1,16 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Runtime output
+vlm_frames/
+vlm_analyzed_frames/
+*.db
+
+# Editor settings
+.vscode/
